@@ -1,0 +1,8 @@
+project,load_zone
+Solar_Existing,Zone1
+Wind_Existing,Zone1
+Battery_Existing,Zone1
+Solar_New,Zone1
+Wind_New,Zone1
+Battery_New,Zone1
+Gas_RA,Zone1

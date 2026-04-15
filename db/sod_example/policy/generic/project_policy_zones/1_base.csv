@@ -1,0 +1,12 @@
+project,policy_name,policy_zone,compliance_type,f_slope,f_intercept,exceedance_values_scenario_id,sod_stor_rte
+Solar_Existing,SOD,SOD_Zone,sod_exceedance,,,1,
+Wind_Existing,SOD,SOD_Zone,sod_exceedance,,,1,
+Solar_New,SOD,SOD_Zone,sod_exceedance,,,1,
+Wind_New,SOD,SOD_Zone,sod_exceedance,,,1,
+Battery_Existing,SOD,SOD_Zone,sod_stor,,,,0.8464
+Battery_New,SOD,SOD_Zone,sod_stor,,,,0.8464
+Gas_RA,SOD,SOD_Zone,sod_flat_block,,,,
+Solar_Existing,RPS,RPS_Zone,f_output,1.0,0,,
+Solar_New,RPS,RPS_Zone,f_output,1.0,0,,
+Wind_Existing,RPS,RPS_Zone,f_output,1.0,0,,
+Wind_New,RPS,RPS_Zone,f_output,1.0,0,,

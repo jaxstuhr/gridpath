@@ -1,0 +1,8 @@
+project,specified,new_build,capacity_type
+Solar_Existing,,,gen_spec
+Wind_Existing,,,gen_spec
+Battery_Existing,,,stor_spec
+Solar_New,,,gen_new_lin
+Wind_New,,,gen_new_lin
+Battery_New,,,stor_new_lin
+Gas_RA,,,gen_new_lin

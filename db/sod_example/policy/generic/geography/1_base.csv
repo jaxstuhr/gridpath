@@ -1,0 +1,3 @@
+policy_name,policy_zone,allow_violation,violation_penalty_per_unit
+SOD,SOD_Zone,0,0
+RPS,RPS_Zone,0,0
